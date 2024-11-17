@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Graff Hallucination",
+        "price":"$55,000,000", 
+        "desc":"A $55M rainbow of rare diamonds, redefining luxury",
+        "photo":"/img/watch-1.png"
+    },
+    {
+        "name":"Patek Philippe Grandmaster",
+        "price":"$33,616,493", 
+        "desc":"A $33.6M marvel with 20 intricate complications.",
+        "photo":"/img/watch-2.png"
+    },
+    {
+        "name":"Breguet Grande Complication",
+        "price":"$30,000,000", 
+        "desc":"A $30M masterpiece of design and precision",
+        "photo":"/img/watch-3.png"
+    },
+    {
+        "name":"Jaeger-LeCoultre Joaillerie",
+        "price":"$26,000,000", 
+        "desc":"A $26M diamond-studded icon of elegance.",
+        "photo":"/img/watch-4.png"
+    },
+    {
+        "name":"Jaeger-LeCoultre Joaillerie",
+        "price":"$26,000,000", 
+        "desc":"A $26M diamond-studded icon of elegance.",
+        "photo":"/img/watch-4.png"
+    },
+    {
+        "name": "The Pink Star",
+        "price": "$71,200,000",
+        "desc": "A $71.2M marvel of exquisite craftsmanship and rare pink diamonds.",
+        "photo": "/img/ring-1.jpeg"
+    },
+    {
+        "name": "The Williamson Pink Star",
+        "price": "$57,700,700",
+        "desc": "A $57.7M gem showcasing the unparalleled beauty of pink diamonds.",
+        "photo": "/img/ring-2.jpeg"
+    },
+    {
+        "name": "The Oppenheimer Blue",
+        "price": "$57,500,000",
+        "desc": "A $57.5M iconic blue diamond, renowned for its exceptional size and brilliance.",
+        "photo": "/img/ring-3.jpeg"
+    },
+    {
+        "name": "The Blue Moon of Josephine",
+        "price": "$48,400,000",
+        "desc": "A $48.4M rare blue diamond ring of extraordinary allure and elegance.",
+        "photo": "/img/ring-4.jpeg"
+    },
+    {
+        "name": "The Oppenheimer Blue",
+        "price": "$57,500,000",
+        "desc": "A $57.5M iconic blue diamond, renowned for its exceptional size and brilliance.",
+        "photo": "/img/ring-5.jpeg"
+    },
+    {
+        "name": "A Heritage in Bloom",
+        "price": "$200,000,000",
+        "desc": "A $200M masterpiece adorned with 383 carats of flawless diamonds.",
+        "photo": "/img/necklace-1.png"
+    },
+    {
+        "name": "The Incomparable Diamond Necklace",
+        "price": "$55,000,000",
+        "desc": "A $55M stunning necklace featuring the world’s largest internally flawless diamond.",
+        "photo": "/img/necklace-2.png"
+    },
+    {
+        "name": "The Heart of the Ocean",
+        "price": "$20,000,000",
+        "desc": "A $20M iconic necklace inspired by the legendary Titanic gemstone.",
+        "photo": "/img/necklace-3.png"
+    },
+    {
+        "name": "The Heart of the Kingdom",
+        "price": "$14,000,000",
+        "desc": "A $14M royal necklace adorned with a spectacular ruby centerpiece.",
+        "photo": "/img/necklace-4.png"
+    },
+    {
+        "name": "Leviev’s Vivid Yellow Diamond Pendant",
+        "price": "$10,000,000",
+        "desc": "A $10M pendant showcasing a stunning vivid yellow diamond.",
+        "photo": "/img/mecklace-5.png"
+    }
+]
